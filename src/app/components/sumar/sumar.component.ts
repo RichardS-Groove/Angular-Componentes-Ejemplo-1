@@ -28,4 +28,5 @@ export class SumarComponent implements OnInit {
     this.resultado = this.num1 + this.num2;
   }
 
+  /**Declaración de variables y creación de un metodo en una clase - función */
 }
